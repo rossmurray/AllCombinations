@@ -22,4 +22,6 @@ For example, given the collection `{1,2,3}` the method will generate the followi
 
 The number of combinations will always be `2^n`. Empty set is a combination for any input. There is no ordering of the results. The return collection is lazy-evaluated; it won't compute the combinations until you iterate over it.
 
+This repository includes a solution, project file, and a main function for demonstration purposes. The actual code of interest is contained in **IListExtensions.cs**
+
 This software is released under the CC0 (public domain) license.
